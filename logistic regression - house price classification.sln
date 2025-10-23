@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "logistic regression - house price classification", "logistic regression - house price classification\logistic regression - house price classification.pyproj", "{DB8A2398-6C66-4CF1-80B5-0C37FA2B6583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8A2398-6C66-4CF1-80B5-0C37FA2B6583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8A2398-6C66-4CF1-80B5-0C37FA2B6583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F72961-018F-4626-864A-3549E693A638}
+	EndGlobalSection
+EndGlobal
